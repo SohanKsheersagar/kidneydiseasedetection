@@ -1,4 +1,4 @@
-# Kidney Stone Detection with MobileNetV2
+# Kidney Disease Detection with MobileNetV2
 
 This repository contains a deep learning model based on MobileNetV2 for kidney stone detection using ultrasound images. It also provides a Streamlit app for real-time image classification.
 
