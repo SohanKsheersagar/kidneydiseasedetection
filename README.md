@@ -10,7 +10,7 @@ This repository contains a deep learning model based on MobileNetV2 for kidney s
 ### Run the Streamlit App
 1. Clone the repository: 
    ```bash
-   git clone https://github.com/yourusername/Kidney_Stone_Detection.git
+   git clone https://github.com/SohanKsheersagar/Kidney_Stone_Detection.git
    ```
 2. Navigate to the `streamlit_app/` directory:
    ```bash
